@@ -12,14 +12,18 @@ The following required functionality is completed:
  At least 10 unique resources or events are displayed in a responsive card format
 The following optional features are implemented:
 
- [*] Buttons or links to related resources are on each card component
- [*] The site is responsive for both desktop and mobile formats
+ [✔] Buttons or links to related resources are on each card component
+ 
+ [✔] The site is responsive for both desktop and mobile formats
  
 The following additional features are implemented:
 
- [*] Cards display images related to each resource.
- [*] Added hover effects for buttons to improve interactivity.
- [*] A background with a pale blue theme was applied for a clean and calming aesthetic.
+ [✔] Cards display images related to each resource.
+ 
+ [✔] Added hover effects for buttons to improve interactivity.
+ 
+ [✔] A background with a pale blue theme was applied for a clean and calming aesthetic.
+ 
  
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
